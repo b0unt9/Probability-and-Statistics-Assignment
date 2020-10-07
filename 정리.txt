@@ -11,14 +11,14 @@ a>b or a>c
 1. 의미 있는 이름
 name
 2. 대소문자 철저하게 구별
-
 a=3
 A=4
 Name
 3. 영문자,숫자,_(밑줄) a_1
 
 4. 공백,키워드(예약어) 안됨
-student_name="홍길동" 공백 : 두개가 다르다.
+student_name="홍길동"
+studentNameNum="홍길동"
 
 5. 반드시 문자로 시작해야 한다.
 1aaa(x)
